@@ -4,7 +4,7 @@
 
 This project is a cloned mimic version of Instagram's database, built using **MySQL** for backend data operations and **Tableau** for frontend data visualizations. The goal is to perform real-world business-related data analysis using SQL queries and represent findings visually.
 
----
+
 
 ## 📂 Data and Exploration
 
@@ -20,7 +20,7 @@ This project is a cloned mimic version of Instagram's database, built using **My
   - `Tags`
   - `Photo_Tags`
 
----
+
 
 ### 🔍 Exploration Questions
 
@@ -39,29 +39,26 @@ The following key business questions were addressed using SQL:
 11. What percentage of users have **never commented** or **liked every photo**?
 12. What is the **total number of years users have spent** on the platform?
 
----
+
 
 ## 📊 Data Visualization
 
 An **interactive dashboard** was created using Tableau to visualize key insights from the SQL analysis.
 
-➡️ **See the Interactive Dashboard** on [my Tableau Public profile](#) *(Replace with your link)*
+➡️ **See the Interactive Dashboard**
+![Instagram Clone Dashboard](cpy/visuals/InstagramCloneDashboard.png)
 
----
+
 
 ## 🛠️ Technologies Used
 
 - **MySQL** – Data modeling and query analysis
 - **Tableau** – Data visualization and storytelling
 
----
+## 📬 Contact
 
-## 📁 Folder Structure
+For feedback or collaboration, feel free to reach out via:
+- 📧 Email: vivekdesaipersonal@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vivek-desai-236887259)
 
-  project-root/
-  ├── cpy/
-  │ └── visuals/
-  │ └── InstagramCloneDashboard.png
-  ├── SQL Queries/
-  │ └── analysis_queries.sql
-  ├── README.md
+
