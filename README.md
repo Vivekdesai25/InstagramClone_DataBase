@@ -45,7 +45,8 @@ The following key business questions were addressed using SQL:
 
 An **interactive dashboard** was created using Tableau to visualize key insights from the SQL analysis.
 
-➡️ **See the Interactive Dashboard**
+➡️ **See the Dashboard**
+
 ![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
 ## 🛠️ Technologies Used
