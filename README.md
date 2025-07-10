@@ -58,10 +58,10 @@ An **interactive dashboard** was created using Tableau to visualize key insights
 
 ## 📁 Folder Structure
 
-project-root/
-├── cpy/
-│ └── visuals/
-│ └── InstagramCloneDashboard.png
-├── SQL Queries/
-│ └── analysis_queries.sql
-├── README.md
+  project-root/
+  ├── cpy/
+  │ └── visuals/
+  │ └── InstagramCloneDashboard.png
+  ├── SQL Queries/
+  │ └── analysis_queries.sql
+  ├── README.md
