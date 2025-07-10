@@ -49,7 +49,6 @@ An **interactive dashboard** was created using Tableau to visualize key insights
 ![Instagram Clone Dashboard](cpy/visuals/InstagramCloneDashboard.png)
 
 
-
 ## 🛠️ Technologies Used
 
 - **MySQL** – Data modeling and query analysis
