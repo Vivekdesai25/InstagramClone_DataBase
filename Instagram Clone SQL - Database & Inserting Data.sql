@@ -21,7 +21,7 @@ CREATE TABLE photos (
 );
 -- ----------------------------------------------------------------------------------------------------
 
-/*Comments*/
+
 CREATE TABLE comments (
     id INT AUTO_INCREMENT PRIMARY KEY,
     comment_text VARCHAR(255) NOT NULL,
